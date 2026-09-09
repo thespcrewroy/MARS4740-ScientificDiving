@@ -24,7 +24,28 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/1-12.png"/>
 </p>
 
-1. Valve = 150 PSI
-2. Tank = 3000 PSI
-3. Stages & Gauges = 15 PSI
-4. Water Pressure = 60 PSI
+> The more bubbles are present on the outside the thicker the wetsuit is. However, the main drawback is that you need more weight on your VCs. The water will run down your spine once you get in and give you a chill. Eventually though, you will start to warm up.
+
+1. Tank = 3000 PSI
+2. Valve = Drops 3000 PSI to 150 PSI
+3. Stages & Gauges = Drops 150 PSI to 15 PSI (Normal Earth Pressure)
+4. Water Pressure = 60 PSI per 100 ft
+
+> [!TIP]\
+> If somebody overfills the tank or if you bake the tank out in the hot sun, the burst disk on the top will pop
+
+> [!TIP]\
+> Air is 79% nitrogen and 21% oxygen. Do not say you almost ran out of "oxygen", say that you almost ran out of "air"
+
+> [!TIP]\
+> When you go into 75 - 80 degree water, the tank internal PSI will drop because it got cold, so don't get alarmed
+
+> [!TIP]\
+> Anytime you go deeper than 30 ft, your body nitrogen starts to want to come out. You are always time limited
+
+> [!TIP]\
+> 3 rules of diving: you cannot hold your breath, you come up slowly, and dive within your training
+
+> [!TIP]\
+> As you go along in your training, only add one variable each dive that adds a little bit more to training
+
