@@ -29,7 +29,7 @@
 1. Tank = 3000 PSI
 2. Valve = Drops 3000 PSI to 150 PSI
 3. Stages & Gauges = Drops 150 PSI to 15 PSI (Normal Earth Pressure)
-4. Water Pressure = 60 PSI per 100 ft
+4. Water Pressure = 60 PSI per 100 ft (minimal effect on 3000 PSI tank)
 
 > [!TIP]\
 > If somebody overfills the tank or if you bake the tank out in the hot sun, the burst disk on the top will pop
