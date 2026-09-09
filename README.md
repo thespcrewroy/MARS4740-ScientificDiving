@@ -30,7 +30,6 @@
 - [Materials](#materials)
 - [Topics](#topics)
 - [Grading Weights](#grading-weights)
-- [Late Submission Policy](#late-submission-policy)
 - [ReGrade Policy](#regrade-policy)
 </details>
 
@@ -92,24 +91,13 @@ Professor: Dr. Scott Noakes
 | `D-`   | `[68, 63)` |
 | `F`    | `[0, 60)`  |
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#late-submission-policy)
-
-## Late Submission Policy
-|     Category     |   Points After Penalty    |
-| ---------------  | ------------------------- |
-| `<= 24hrs`       | `pointsEarned - 10`       |
-| `24hrs to 48hrs` | `pointsEarned - 20`       |
-| `>= 48hrs`       | `0`                       |
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#regrade-policy)
 
 ## ReGrade Policy
 
-Please send an email using your official UGA email account including the instructor and all
-TA(s), if you think there is a mistake in a grade you received. Please use a descriptive subject
-that begins with `[4370][grading issue]` for undergraduates and `[6370][grading issue]` for
-graduates without quotes followed by the name of the assignment and include a brief but
-specific description about the grading issue in your email.
+Missed exams will be rescheduled ASAP. Students will be given the opportunity to meet with
+the instructor to make up exams.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#footer)
 
