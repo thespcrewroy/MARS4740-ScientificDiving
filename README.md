@@ -27,7 +27,6 @@
 ## Table of Contents
 
 - [Personnel](#personnel)
-- [Prerequisites](#prerequisites)
 - [Materials](#materials)
 - [Topics](#topics)
 - [Grading Weights](#grading-weights)
@@ -38,69 +37,59 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#personnel)
 
 ## Personnel
-* Professor: Dr. Sami Menik, PhD <br>
-* TA: Triparna <br>
-* TA: Braveenan <br>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#prerequisites)
-
-## Prerequisites
-CSCI 2720 (Data Structures) or CSCI 2725 (Data Structures for Data Science)
+Professor: Dr. Scott Noakes
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#directory-structure)
 
 ## Materials
-* Java 21.0.8 LTS 2025-07-15 (or latest version)
-* MySQL 8 database management system
-* Apache Maven 3.9.11 (or latest version)
-* Docker version 28.3.2, build 578ccf6 (or latest version)
-* Unix-Based Computer is preffered (macOS, linux, etc.)
+* Dive Gear ($350)
+* SSI Textbook ($135)
+* Vortex Springs Trip
 
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#topics)
 
 ## Topics
 |  Chap  |               Topic                    |
 | -------| -------------------------------------- |
-| `ch01` | `Introduction`                         |
-| `ch02` | `Introduction to the Relational Model` |
-| `ch03` | `Intermediate SQL`                     |
-| `ch04` | `Introduction to the Relational Model` |
-| `ch06` | `Database Design Using The E-R Model`  |
-| `ch07` | `Relational Database Design`           |
-| `ch09` | `Application Development`              |
-| `ch10` | `Big Data`                             |
-| `ch11` | `Data Analysis`                        |
-| `ch12` | `Physical Storage Systems`             |
-| `ch13` | `Data Storage Structures`              |
-| `ch14` | `Indexing`                             |
-| `ch15` | `Query Processing`                     |
-| `ch16` | `Query Optimization`                   |
-| `ch17` | `Transactions`                         |
+| `ch01` | `Your Body and the Aquatic Env.`       |
+| `ch02` | `Using Life Support Equipment Under`   |
+| `ch03` | `Breathing Gas Body Effects`           |
+| `ch04` | `The Value of a Dive Buddy`            |
+| `ch06` | `The Ocean Diving Opportunities`       |
+| `ch07` | `SCUBA Diving Experiences & Beyond`    |
+| `ch09` | `Atlantic Grey Whales - Marine Paleo`  |
+| `ch10` | `Marine Acoustics`                     |
+| `ch11` | `Function of the Georgia Aquarium`     |
+| `ch12` | `Shipwreck - Marine Archeology`        |
+| `ch13` | `Marine Plastics`                      |
+| `ch14` | `Marine Ecology`                       |
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#grading)
 
 ## Grading Weights
 |      Tag        | Weight |
 | --------------- | ------ |
-| `Activities`    | `14%`  |
-| `Projects`      | `30%`  |
-| `Exam 1`        | `14%`  |
-| `Exam 2`        | `14%`  |
-| `Exam 3`        | `14%`  |
-| `Final Project` | `14%`  |
+| `Attendance`    | `10%`  |
+| `Pool Lab`      | `15%`  |
+| `Midterm`       | `30%`  |
+| `Quizzes`       | `10%`  |
+| `Seminar Breifs`| `15%`  |
+| `Final Exam`    | `20%`  |
 
 ## Letter Grade Breakdown
 | Letter |   Score    |
 | ------ | ---------- |
-| `A`    | `[93, ∞)`  |
-| `A-`   | `[90, 93)` |
-| `B+`   | `[87, 90)` |
-| `B`    | `[83, 87)` |
+| `A`    | `[92, ∞)`  |
+| `A-`   | `[90, 92)` |
+| `B+`   | `[88, 90)` |
+| `B`    | `[83, 88)` |
 | `B-`   | `[80, 83)` |
-| `C+`   | `[77, 80)` |
-| `C`    | `[73, 77)` |
+| `C+`   | `[78, 80)` |
+| `C`    | `[73, 78)` |
 | `C-`   | `[70, 73)` |
-| `D`    | `[60, 70)` |
+| `D+`   | `[68, 70)` |
+| `D`    | `[63, 68)` |
+| `D-`   | `[68, 63)` |
 | `F`    | `[0, 60)`  |
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#late-submission-policy)
