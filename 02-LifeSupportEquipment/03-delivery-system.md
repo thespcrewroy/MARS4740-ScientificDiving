@@ -28,4 +28,5 @@
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/2-7.jpg""/>
 </p>
+
 > The most important part of caring for your cylinder is keeping moisture out. To do that, simply keep a minimum cylinder pressure of 30 to 50 bar in it at all times. Store the cylinder in a cool, dry place in a secure position so it can’t fall. When transporting a cylinder, position it with the bottom of the cylinder forward, and secure the cylinder so it cannot roll around.
