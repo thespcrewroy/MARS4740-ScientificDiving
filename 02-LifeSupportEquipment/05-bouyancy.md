@@ -6,4 +6,4 @@
 
 1. Positive Buoyancy: An object that weighs less than the weight of the liquid
 2. Negative Buoyancy: An object that weighs more than the weight of the liquid
-3. Neutral Buoyancy: An object that weighs equal to the weight of the liquid. Neutral buoyancy is where you want to fill your air sacs to
+3. Neutral Buoyancy: An object that weighs equal to the weight of the liquid which is where you'd want to be at your preffered depth
