@@ -21,4 +21,4 @@ If immediate medical help is not available, follow these general rules for all o
 1. Activate the Emergency Medical System (EMS) and comply with the directions regarding victim care and transport to a medical facility
 2. Treat for shock and monitor vital signs
 3. If qualified, administer oxygen
-4. If qualified, administer CPR, if necessary; and NEVER take a diver back underwater and attempt recompression. ALWAYS have an emergency plan before you dive! List the phone numbers and radio frequencies of the Coast Guard, lifeguard service, and other useful information in your MySSI Logbook.
+4. If qualified, administer CPR, if necessary
