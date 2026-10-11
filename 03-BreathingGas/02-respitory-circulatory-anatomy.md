@@ -1,7 +1,7 @@
 # Basic Respitory and Circulatory Anatomy
 
 <p align="left">
-  <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/3-1.png""/>
+  <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/3-1.jpg""/>
 </p>
 1. Bronchioles
 2. Alveoli
