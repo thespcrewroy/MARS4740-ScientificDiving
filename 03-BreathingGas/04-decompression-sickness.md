@@ -6,12 +6,15 @@
 
 > This is Dalton’s Law, which can be paraphrased as "the total pressure of a mixture of gases equals the sum of the partial pressures." Henry’s Law states that the amount of gas that will dissolve into a liquid is directly proportional to the partial pressure of the gas.
 
+<br>
+
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/3-6.jpg""/>
 </p>
 
 > Rapid or uncontrolled ascents can have very serious consequences. A diver who ascends can create a high desaturation gradient for each of the inert gases that have been absorbed. This can result in supersaturation of the tissues and blood. The gases may separate out of solution to form bubbles which can create the condition known as decompression illness (DCI).
 
+<br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/3-7.jpg""/>

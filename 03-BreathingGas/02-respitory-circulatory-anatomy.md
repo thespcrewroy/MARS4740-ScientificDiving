@@ -9,6 +9,8 @@
 3. Alveoli (Close Up)
 4. Alveolu
 
+<br>
+
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/noaks-2.png""/>
 </p>

@@ -8,6 +8,7 @@
 2. Rip Current
 3. Escape the Current by Swimming Parallel to the Shore
 
+<br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/4-5.jpg""/>
