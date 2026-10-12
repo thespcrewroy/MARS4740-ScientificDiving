@@ -96,8 +96,7 @@ Professor: Dr. Scott Noakes
 
 ## ReGrade Policy
 
-Missed exams will be rescheduled ASAP. Students will be given the opportunity to meet with
-the instructor to make up exams.
+Students will be given the opportunity to meet with the instructor to make up exams ASAP.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#footer)
 
