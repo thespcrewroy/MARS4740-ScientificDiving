@@ -4,8 +4,8 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/6-3.jpg"/>
 </p>
 
-1. Descent/Ascent Line with Safety Stop Cylinder
-2. By tugging on the line, the support people can see the float on the surface move
+1. Descent or Ascent Line with Safety Stop Cylinder
+2. The support people can see the float on the surface move by tugging on the line
 3. Surface Marker
 
 <br>
