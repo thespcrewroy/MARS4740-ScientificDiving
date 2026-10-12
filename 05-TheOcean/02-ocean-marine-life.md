@@ -4,7 +4,7 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-3.jpg"/>
 </p>
 
-> Branch Corals.
+> Branch Corals
 
 <br>
 
@@ -12,7 +12,7 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-4.jpg"/>
 </p>
 
-> Brain Coral.
+> Brain Coral
 
 <br>
 
@@ -20,7 +20,7 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-5.jpg"/>
 </p>
 
-> Star Coral.
+> Star Coral
 
 <br>
 
@@ -28,7 +28,7 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-6.jpg"/>
 </p>
 
-> Fire Coral.
+> Fire Coral
 
 <br>
 
@@ -36,7 +36,7 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-7.jpg"/>
 </p>
 
-> Lettuce Leaf Coral.
+> Lettuce Leaf Coral
 
 <br>
 
@@ -44,7 +44,7 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-8.jpg"/>
 </p>
 
-> Carnation Tree Soft Coral.
+> Carnation Tree Soft Coral
 
 <br>
 
@@ -52,7 +52,7 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-9.jpg"/>
 </p>
 
-> Feather Worms.
+> Feather Worms
 
 <br>
 
@@ -60,7 +60,7 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-10.jpg"/>
 </p>
 
-> Giant Clam.
+> Giant Clam
 
 <br>
 
@@ -68,7 +68,7 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-11.jpg"/>
 </p>
 
-> Slug.
+> Slug
 
 <br>
 
@@ -76,11 +76,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-12.jpg"/>
 </p>
 
+> Octopus
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-13.jpg"/>
 </p>
+
+> Squid
 
 <br>
 
@@ -88,11 +92,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-14.jpg"/>
 </p>
 
+> Lobster
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-15.jpg"/>
 </p>
+
+> Crab
 
 <br>
 
@@ -100,11 +108,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-16.jpg"/>
 </p>
 
+> Starfish
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-17.jpg"/>
 </p>
+
+> Sea Urchin
 
 <br>
 
@@ -112,11 +124,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-18.jpg"/>
 </p>
 
+> Sea Cucumber
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-19.jpg"/>
 </p>
+
+> Anemonefish
 
 <br>
 
@@ -124,11 +140,20 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-20.jpg"/>
 </p>
 
+> Bicolor Parrotfish
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-21.jpg"/>
 </p>
+
+1. Dorsal Fin
+2. Tail Fin
+3. Anal Fin
+4. Ventral Fin
+5. Pectoral Fin
+6. Lateral Line
 
 <br>
 
