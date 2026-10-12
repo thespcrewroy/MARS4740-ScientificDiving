@@ -30,6 +30,7 @@
 
 > You only have a 12 liter cylinder, filled with 200 bar. Remember to take your reserve (50 bar) into calculation. Can you comfortably make this dive or should you shorten your time underwater? You should shorten your time to leave yourself a margin of error.
 
+<br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/4-15.jpg""/>
