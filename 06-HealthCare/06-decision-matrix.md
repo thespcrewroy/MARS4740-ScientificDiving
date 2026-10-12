@@ -5,7 +5,8 @@
 </p>
 
 1. Out-of-Air Signal
-2. Donor Shares Primary Regulator and Uses Alternate Air Source. Each Holds the Other's Right BC Strap. Begin Air Sharing Ascent While Holding BC Exhaust Hoses in Left Hands
+2. Donor Shares Primary Regulator and Uses Alternate Air Source where Each Holds the Other's Right BC Strap
+3. Begin Air Sharing Ascent While Holding BC Exhaust Hoses in Left Hands
 
 
 
@@ -16,5 +17,7 @@
 </p>
 
 1. Release Weight System
-2. Ascend With as Much Control as Possible. Continuously Exhale in a Controlled Manner. Arch Out at Between 5 and 3 Meters to Slow Ascent
+2. Ascend With as Much Control as Possible
+3. Continuously Exhale in a Controlled Manner
+4. Arch Out at Between 5 and 3 Meters to Slow Ascent
 
