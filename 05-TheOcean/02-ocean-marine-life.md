@@ -161,11 +161,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-22.jpg"/>
 </p>
 
+> Juvenile Emperor Angelfish
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-23.jpg"/>
 </p>
+
+> Adult Emperor Angelfish
 
 <br>
 
@@ -173,11 +177,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-24.jpg"/>
 </p>
 
+> Queen Angelfish
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-25.jpg"/>
 </p>
+
+> Banded Butterfly
 
 <br>
 
@@ -185,11 +193,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-26.jpg"/>
 </p>
 
+> Spot Fin Butterfly
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-27.jpg"/>
 </p>
+
+> Longfin Bannerfish
 
 <br>
 
@@ -197,11 +209,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-28.jpg"/>
 </p>
 
+> Picasso Triggerfish
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-29.jpg"/>
 </p>
+
+> Clown Triggerfish
 
 <br>
 
@@ -209,11 +225,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-30.jpg"/>
 </p>
 
+> Coral Grouper
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-31.jpg"/>
 </p>
+
+> Fairy Basslet
 
 <br>
 
@@ -221,11 +241,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-32.jpg"/>
 </p>
 
+> Pufferfish
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-33.jpg"/>
 </p>
+
+> Seahorse
 
 <br>
 
@@ -233,11 +257,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-34.jpg"/>
 </p>
 
+> Royal Blue Tang
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-35.jpg"/>
 </p>
+
+> Sea Turtle
 
 <br>
 
@@ -245,11 +273,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-36.jpg"/>
 </p>
 
+> Humphead Wrasse
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-37.jpg"/>
 </p>
+
+> Bottlenose Dolphin
 
 <br>
 
@@ -257,11 +289,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-38.jpg"/>
 </p>
 
+> Blue Whale
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-39.jpg"/>
 </p>
+
+> Humpback Whale
 
 <br>
 
@@ -269,11 +305,15 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-40.jpg"/>
 </p>
 
+> Orca (Killer Whale)
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-41.jpg"/>
 </p>
+
+> Marlin
 
 <br>
 
@@ -281,8 +321,12 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-42.jpg"/>
 </p>
 
+> Garibaldi in Kelp
+
 <br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/5-43.jpg"/>
 </p>
+
+> Tuna
