@@ -43,7 +43,7 @@ Professor: Dr. Scott Noakes
 ## Materials
 * Dive Gear ($350)
 * SSI Textbook ($135)
-* Vortex Springs Trip
+* Vortex Springs Trip ($410)
 
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#topics)
 
