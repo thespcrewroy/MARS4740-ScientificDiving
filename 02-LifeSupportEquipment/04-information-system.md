@@ -9,6 +9,7 @@
 3. Cylinder Pressure
 4. Gas Type
 
+<br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/2-9.jpg""/>
@@ -16,6 +17,7 @@
 
 > Another timing device is the dive timer. This instrument is automatically activated by pressure as the diver descends and it stops when the diver returns to the surface, thus showing the total time a diver has spent underwater. Dive timers keep track of time spent on the surface between dives as well. Watches should be rated to a depth of at least 100 meters or, better yet, 200 meters. Digital timing devices are a standard feature of dive computers and automatically record the total time for dives.
 
+<br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/2-10.jpg""/>
@@ -23,6 +25,7 @@
 
 > The compass helps you maintain a sense of direction when natural navigation is not possible due to a lack of distinct underwater features or low visibility. It also indicates the way back to an original dive point. There are several styles of compasses.
 
+<br>
 
 <p align="left">
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/2-11.jpg""/>
