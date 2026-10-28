@@ -4,7 +4,7 @@
   <img src="https://github.com/thespcrewroy/MARS4740-ScientificDiving/blob/main/assets/3-2.jpg""/>
 </p>
 
-> In Pneumothorax, the second most serious lung overexpansion injury, air escapes from the lungs and moves between the covering of the lungs (pleural lining) and the rib cage. The expanding gas often collapses the lung and can put pressure on the heart, affecting circulation.
+> In Pneumothorax, the second most serious lung overexpansion injury, air escapes from the lungs and moves between the covering of the lungs (pleural lining) and the rib cage. The expanding gas often collapses the lung and can put pressure on the heart.
 
 <br>
 
